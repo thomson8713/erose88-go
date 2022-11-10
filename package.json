@@ -1,12 +1,12 @@
 {
-  "name": "erose88-go",
-  "main": "./lib/erose88-go",
+  "name": "thomson8713/erose88-go",
+  "main": "./lib/thomson8713/erose88-go",
   "version": "0.0.1",
   "description": "A short description of your package",
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "erose88-go:toggle"
+    "atom-workspace": "thomson8713/erose88-go:toggle"
   },
   "repository": "https://github.com/thomson8713/erose88-go",
   "license": "MIT",
