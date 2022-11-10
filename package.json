@@ -1,0 +1,14 @@
+{
+  "name": "Erose88-go",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "Package Installation for Erose88-go.",
+  "keywords": [
+    "erose88-go"
+  ],
+  "repository": "https://github.com/thomson8713/erose88-go",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
