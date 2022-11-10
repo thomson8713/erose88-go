@@ -1,14 +1,18 @@
 {
-  "name": "erose88-go",
-  "theme": "syntax",
+  "name": "paket-saya",
+  "main": "./lib/paket-saya",
   "version": "0.0.1",
-  "description": "Package Installation for Erose88-go.",
+  "description": "A short description of your package",
   "keywords": [
-    "erose88-go"
   ],
+  "activationCommands": {
+    "atom-workspace": "paket-saya:toggle"
+  },
   "repository": "https://github.com/thomson8713/erose88-go",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
   }
 }
